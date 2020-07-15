@@ -1,0 +1,28 @@
+{
+  "name": "xutil",
+  "version": "1.0.0",
+  "description": "常用的工具函数，有自己写的，也有收集来的，可以通过 npm 直接安装。主要是自己使用，需要的也可做个参考",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiongLiding/xutil.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XiongLiding/xutil/issues"
+  },
+  "homepage": "https://github.com/XiongLiding/xutil#readme",
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true,
+    "printWidth": 120,
+    "arrowParens": "always"
+  },
+  "peerDependencies": {
+    "rambda": "^5.8.0"
+  }
+}
